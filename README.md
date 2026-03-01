@@ -1,4 +1,4 @@
-# 👋 Hey — I’m Vansh Nagpal
+# 👋 Hey, I’m Vansh Nagpal
 
 **Computer Science Undergraduate • Reliance Foundation Scholar**  
 Full-stack engineer · AI enthusiast · Product-minded designer · Hackathon winner
